@@ -1,12 +1,24 @@
 # Semana-4-5
 ## Documentación
 ## Contenido
-[Reto 3](#reto)
+## [Reto 3](#reto)
 * [Desafío](#desafio)
 * [Área temática](#area_tematica)
 * [Descripción](#descripcion)
 * [Caso explicativo](#caso_explicativo)
 * [Objetivos esperados](#objetivos_esperados)
+## [Solución](#solucion)
+- [Semana-4-5](#semana-4-5)
+  - [Documentación](#documentación)
+  - [Contenido](#contenido)
+  - [Reto 3](#reto-3)
+  - [Solución](#solución)
+  - [Reto 3](#reto-3-1)
+  - [Solución](#solución-1)
+  - [Mejora la productividad en tu organización.](#mejora-la-productividad-en-tu-organización)
+  - [Ejercita la fuerza de voluntad, crea mejores hábitos y aprovecha al máximo el tiempo cuando se trabaje en equipo.](#ejercita-la-fuerza-de-voluntad-crea-mejores-hábitos-y-aprovecha-al-máximo-el-tiempo-cuando-se-trabaje-en-equipo)
+  - [Contenido temático Coaching](#contenido-temático-coaching)
+  - [Herramientas.](#herramientas)
 <a name ="reto"></a>
 ## Reto 3
 <a name ="desafio"></a>
@@ -26,3 +38,37 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Crear un portafolio web de una empresa que ofrezca servicios de coaching profesional.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.  Crear un portafolio web de una empresa que ofrezca aplicaciones móviles para el manejo del tiempo y la productividad
+
+<a name ="solucion"></a>
+## Solución
+
+<a name ="mejora_la_productividad"></a>
+## Mejora la productividad en tu organización.
+Adquiere conocimientos y herramientas que permitan gestionar y resolver situaciones en el ámbito laboral.
+
+
+<a name ="ejercita_la_furza"></a>
+## Ejercita la fuerza de voluntad, crea mejores hábitos y aprovecha al máximo el tiempo cuando se trabaje en equipo.
+
+Nuestro Coaching de Equipos los guiara a definir las metas en común, identificar que limita su desarrollo y poner en marcha una transformación que les permita maximizar su potencial y optimizar su rendimiento.
+
+Con nuestras herramientas, planificaran mejor las acciones pensando en el mediano y largo plazo y serán profesionales más efectivos
+
+## Contenido temático Coaching
+* Hábitos
+* Desarrollo de la fuerza de voluntad
+* La motivación
+* Metas
+* Decisiones
+* Experiencia
+* Construyendo nuestro equipo
+* Manejo de tiempo en equipo
+
+
+<a name ="herramientas"></a>
+## Herramientas.
+* Manejo de proyectos
+* Reuniones efectivas
+* Administración de tareas
+* Diagramas de Gantt
+* Control de tiempo
